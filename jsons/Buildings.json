@@ -1,4 +1,27 @@
 [
+	{
+		"name": "Stronghold",
+		"uniqueTo": "Colziand",
+		"replaces": "Barracks",
+		"hurryCostModifier": 35,
+		"gold": 200,
+		"science": 3,
+		"maintenance": 5,
+		"uniques": ["New [Military] units start with [1000] Experience [in this city]","Destroyed when the city is captured","[1] free [Khan] units appear",
+			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion","Gain a free [Krepost] [in this city]"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+        	"name": "Mall",
+		"uniqueTo": "Colziand",
+        	"cost": 400,
+		"food": 2,
+		"culture": 2,
+		"maintenance": 4,
+		"percentStatBonus": {"gold": 20},
+    		"replaces": "Hypermarket",
+		"requiredTech": "Replaceable Parts"
+   	},
   {
 		"name": "Haggarat",
 		"replaces": "Temple",
