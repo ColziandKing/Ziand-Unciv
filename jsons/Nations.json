@@ -44,7 +44,7 @@
 			"favoredReligion": "Christianity",
 			"uniqueName": "Schueberfouer Fair",
 
-			"uniques": ["[+1 Culture, +1 Gold] from all [Happiness] buildings", "[-50]% maintenance cost for [all] buildings <while the empire is happy>"],
+			"uniques": ["[+1 Culture, +1 Gold] from all [Happiness] buildings", "[-50]% maintenance cost for [all] buildings"],
 			"spyNames": ["Leo", "Mia", "Emma", "Gabriel", "Louis", "Noah", "Léa", "Liam", "Marie", "Joseph"],
 			"cities": ["Luxembourg", "Esch-sur-Alzette", "Dudelange", "Schifflange", "Bettembourg", "Pétange", "Ettelbruck", "Diekirch", "Strassen", "Bertrange", "Belvaux", "Differdange", "Mamer", "Soleuvre", "Wiltz"]
 	},
@@ -3337,7 +3337,7 @@
 	"innerColor": [240, 166, 202],
 
 	"uniqueName": "Iomante",
-	"uniques": ["Gain [200] [Faith] <(modified by game speed)> <upon declaring war>", "Gain [30] [Culture] <(modified by game speed)> <upon declaring war>", "[+15]% [Faith] [in all cities] <within [1] tiles of a [Camp]>"],
+	"uniques": ["Gain [200] [Faith] <(modified by game speed)> <when at war>", "Gain [30] [Culture] <(modified by game speed)> <when at war>", "[+15]% [Faith] [in all cities] <within [1] tiles of a [Camp]>"],
 
 	"spyNames": ["Ainu", "Repun", "Kimun", "Mat", "Hok", "Aship", "Poro", "Upe", "Kamuy", "Chin"],
 	"cities": ["Shiraoi", "Nayoro", "Kushiro", "Obihiro", "Sapporo", "Hakodate", "Asahikawa", "Chitose", "Tomakomai", "Rishiri", "Rebun", "Sakhalin", "Kunashir", "Iturup", "Ushiku", "Akan", "Daisetsuzan", "Shiretoko", "Kushiro Shitsugen", "Toyako", "Abashiri", "Niseko", "Muroran", "Otaru"],
