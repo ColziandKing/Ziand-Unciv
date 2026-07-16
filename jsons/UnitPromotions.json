@@ -211,7 +211,7 @@
 	//The Third German Reich
 	{
 	"name": "Blitzkrieg",
-	"uniques": ["[+1] Movement <for [This Unit] units> <for [5] turns> when at war>", "[1] additional attacks per turn <for [This Unit] units> <for [5] turns> <when at war>",
+	"uniques": ["[+1] Movement <for [This Unit] units> <for [5] turns> <when at war>", "[1] additional attacks per turn <for [This Unit] units> <for [5] turns> <when at war>",
 							"[+1] Movement <for [This Unit] units> <for [3] turns> <upon conquering a city>", "[1] additional attacks per turn <for [This Unit] units> <for [3] turns> <upon conquering a city>"],
 	},
 	{
