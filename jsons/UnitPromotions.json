@@ -404,7 +404,7 @@
 	//Romani
 	{
 		"name": "Romani Ability",
-		"uniques": ["[+33]% Strength <when defending> <for [6] turns> <when at war"],
+		"uniques": ["[+33]% Strength <when defending> <for [6] turns> <when at war>"],
 	},
 	//Micronesia
 	{
