@@ -44,7 +44,7 @@
 			"favoredReligion": "Christianity",
 			"uniqueName": "Schueberfouer Fair",
 
-			"uniques": ["[+1 Culture, +1 Gold] from all [Happiness] buildings", "[-50]% maintenance cost for [all] buildings"],
+			"uniques": ["[+1 Culture, +1 Gold] from all [Happiness] buildings", "[-50]% maintenance cost for [all] buildings [in all cities]"],
 			"spyNames": ["Leo", "Mia", "Emma", "Gabriel", "Louis", "Noah", "Léa", "Liam", "Marie", "Joseph"],
 			"cities": ["Luxembourg", "Esch-sur-Alzette", "Dudelange", "Schifflange", "Bettembourg", "Pétange", "Ettelbruck", "Diekirch", "Strassen", "Bertrange", "Belvaux", "Differdange", "Mamer", "Soleuvre", "Wiltz"]
 	},
