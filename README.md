@@ -1,5 +1,31 @@
 # RSCIVSNM
 RSCIVSNM is an mod that adds five civilizations in the RSCU. This mod's predecessor contained civs such as Colziand, Salumi, & many more. This are all new civilizations expanding the rich lore and history that rest in the RSC Universe. Notes are provided for grand gameplay.
+
+{
+		"name": "Vietnam",
+		"leaderName": "Lê Thánh Tông",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [139, 181, 98],
+		"innerColor": [23, 39, 77],
+		"uniqueName": "Water Puppetry",
+		"uniques": ["[+2 Food] from every [Lakes]","[+2 Faith] from every [Lakes]","[+1 Food] from every [Jungle]"],
+		"cities": ["Thang Long","Ho Chi Minh","Da Nang","Hue","Nha Trang","Ha Long","Can Tho","Da Lat","Hai Phong","Vinh"],
+	},
 [
     "Polytheism",
     "Monotheism",
