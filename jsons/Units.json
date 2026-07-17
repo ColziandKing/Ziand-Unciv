@@ -653,7 +653,8 @@
 	"strength": 65,
 	"cost": 270,
 	"requiredTech": "Radar",
-	"uniques": ["Never appears as a Barbarian unit", "May Paradrop [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "[-100]% maintenance costs", "Can move immediately once bought"],
+	"promotions": ["Paradrop","No movement cost to pillage"],
+	"uniques": ["Never appears as a Barbarian unit", "[-100]% maintenance costs", "Can move immediately once bought"],
 	"attackSound": "shot"
 },
 {
@@ -3144,8 +3145,8 @@
 	"strength": 65,
 	"cost": 375,
 	"requiredTech": "Radar",
-	"promotions": ["Scouting I"],
-	"uniques": ["May enter foreign tiles without open borders", "[+15]% Strength <in [Foreign Land] tiles>", "May Paradrop [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
+	"promotions": ["Scouting I","Paradrop"],
+	"uniques": ["May enter foreign tiles without open borders", "[+15]% Strength <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
 	"attackSound": "shot"
 },
 //Cook Islands
