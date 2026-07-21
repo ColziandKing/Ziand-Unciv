@@ -26,15 +26,7 @@ RSCIVSNM is an mod that adds five civilizations in the RSCU. This mod's predeces
 		"uniques": ["[+2 Food] from every [Lakes]","[+2 Faith] from every [Lakes]","[+1 Food] from every [Jungle]"],
 		"cities": ["Thang Long","Ho Chi Minh","Da Nang","Hue","Nha Trang","Ha Long","Can Tho","Da Lat","Hai Phong","Vinh"],
 	},
-[
-    "Polytheism",
-    "Monotheism",
-    "Teotl",
-    "Pachamama",
-    "Sumerian Polytheism",
-    "Kemetism",
-    "Chaldeanism",
-    "Hellenism",
+
 
 	{
 		"name": "Canada",
