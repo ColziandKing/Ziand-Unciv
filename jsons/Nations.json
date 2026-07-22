@@ -15,7 +15,7 @@
 			"tradeRequest": "Canada greets you with the promise of trade.",
 			"outerColor": [250, 240, 202],
 			"innerColor": [255, 0, 0],
-	                "favoredReligion": "Catholicism",
+	                "favoredReligion": "Christianity",
 			"uniqueName": "The Great White North",
 			"uniques": ["[+1 Production] from every [Tundra]",
 			"[+1 Production] from every [Snow]",
@@ -111,7 +111,7 @@
 			"tradeRequest": "I propose a trade that will not only enrich our nations but will also strengthen the bonds between our people.",
 			"outerColor": [158, 120, 143],
 			"innerColor": [255, 200, 0],
-									"favoredReligion": "Catholicism",
+									"favoredReligion": "Christianity",
 			"uniqueName": "Unity in Diversity",
 			"uniques": ["[+1 Culture, +1 Happiness] per [4] population [in capital]", "[Melee] units gain the [Woodsman] promotion"],
 
@@ -166,7 +166,7 @@
 
 			"innerColor": [227, 181, 5],
 			"outerColor": [225, 0, 0],
-			"favoredReligion": "Eastern Orthodox",
+			"favoredReligion": "Eastern Orthodoxy",
 			"uniqueName": "Our Tomorrow",
 			"uniques": [
 				"Comment [Starts with [Order] adopted]",
@@ -309,7 +309,7 @@
 
 			"innerColor": [163, 51, 61],
 			"outerColor": [255, 119, 0],
-			"favoredReligion": "Monotheism",
+			
 			"uniqueName": "The Land of Fire",
 			"uniques": ["New [Military] units start with [15] XP [in all cities] <within [2] tiles of a [Mountain]>"],
 
@@ -501,7 +501,7 @@
 
 			"innerColor": [52, 58, 26],
 			"outerColor": [23, 126, 137],
-			"favoredReligion": "Pachamama",
+			
 			"uniqueName": "Grace of The Staff God",
 			"uniques": ["Gain enough Faith for a Pantheon", "May choose [1] additional [Pantheon] beliefs when [enhancing] a religion"],
 
@@ -528,7 +528,7 @@
 
 			"innerColor": [79, 18, 113],
 			"outerColor": [215, 129, 106],
-			"favoredReligion": "Pachamama",
+			
 			"uniqueName": "Trophy Heads",
 			"uniques": ["Upon capturing a city, receive [10] times its [Food] production as [Culture] immediately", "Free [Great General] appears <upon discovering [Bronze Working] technology>"],
 
@@ -555,7 +555,7 @@
 
 			"innerColor": [79, 119, 45],
 			"outerColor": [255, 237, 101],
-			"favoredReligion": "Pachamama",
+			
 			"uniqueName": "Amazon Delta",
 			"uniques": ["[+1 Food, +1 Gold] from [Jungle] tiles [in all cities]", "[+1 Science] [in all cities] <with [1] to [2] neighboring [Jungle] tiles>", "[+2 Science] [in all cities] <with [3] to [6] neighboring [Jungle] tiles>"],
 
@@ -609,7 +609,7 @@
 
 			"outerColor": [89, 201, 165],
 			"innerColor": [46, 41, 78],
-			"favoredReligion": "Teotl",
+			
 			"uniqueName": "Three Obsidian Blades",
 			"uniques": ["[+10]% Strength <when attacking> <for units with [Shock I]>", "[+10]% Strength <when attacking> <for units with [Drill I]>", "[+10]% Strength <when defending> <for units with [Cover I]>"],
 
@@ -636,7 +636,7 @@
 
 			"outerColor": [51, 65, 149],
 			"innerColor": [123, 201, 80],
-			"favoredReligion": "Polytheism",
+			
 			"uniqueName": "Cacique Chiefdom",
 			"uniques": ["Reveal up to [25] [Coastal] within a [10] tile radius", "[+1 Happiness] [in all coastal cities]", "Each city founded increases culture cost of policies [+22]% less than normal"],
 
@@ -663,7 +663,7 @@
 
 			"outerColor": [132, 0, 50],
 			"innerColor": [255, 93, 115],
-			"favoredReligion": "Polytheism",
+			
 			"uniqueName": "Sacred Mounds",
 			"uniques": ["[+1 Culture, +1 Faith] in cities on [Hill] tiles", "[+2 Happiness] [in all cities] <with [2] to [6] neighboring [Timber Circle] tiles>",],
 
@@ -690,7 +690,7 @@
 
 			"outerColor": [202, 207, 214],
 			"innerColor": [9, 129, 74],
-			"favoredReligion": "Polytheism",
+			
 			"uniqueName": "Finzenu",
 			"uniques": ["[+2 Gold] from every [Shrine]", "[+1 Food] from [Farm] tiles without [Fresh water] [in all cities] <within [1] tiles of a [Sinu Canal]> <after discovering [Civil Service]>"],
 
@@ -717,7 +717,7 @@
 
 			"outerColor": [0, 129, 72],
 			"innerColor": [209, 240, 177],
-			"favoredReligion": "Polytheism",
+			
 			"uniqueName": "Stone Gods",
 			"uniques": ["[+2 Faith, +1 Culture, +1 Production] from [Quarry] tiles [in all cities]", "[+20]% Strength <when fighting in [Quarry] tiles>", "[+1 Faith] from [Mine] tiles [in all cities] <within [1] tiles of a [City center]>", "[+15]% Strength <when fighting in [Mine] tiles>"],
 
@@ -744,7 +744,7 @@
 
 			"outerColor": [0, 36, 0],
 			"innerColor": [34, 162, 122],
-			"favoredReligion": "Polytheism",
+			
 			"uniqueName": "Rotten Wood Idols",
 			"uniques": ["[+10]% Strength <when fighting in [Desert] tiles>", "[+1 Faith, +1 Production] from every [Desert] <after founding a Pantheon>"],
 
@@ -759,7 +759,7 @@
 		"leaderName": "San Martín",
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Christianity",
 
 		"declaringWar": "You threaten the sovereignty of Argentina! Our freedom shall stand forever!",
 		"attacked": "Unprovoked aggression won't get you these lands! Nothing ever will!",
@@ -786,7 +786,7 @@
 		"leaderName": "Alberto Lleras",
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Christianity",
 
 		"outerColor": [252, 213, 82],
 		"innerColor": [0, 71, 119],
@@ -813,7 +813,7 @@
 		"leaderName": "Valentin Paniagua",
 		"startBias": ["Coast","Hill"],
 		"preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Christianity",
 
 		"declaringWar": "Alas, it pains me to declare that our patience has worn thin. Prepare for the inevitable clash of our forces.",
 		"attacked": "We shall meet your forces with unwavering courage! Your unprovoked attack will not go unanswered.",
@@ -838,7 +838,7 @@
 		"leaderName": "Benito Juarez",
 		"startBias": ["Hill", "Avoid [Tundra]",],
 		"preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Christianity",
 
 		"declaringWar": "The time for idle threats has passed! The Mexican people, will not cower in the face of tyranny! Prepare to face the hawk's talons!",
 		"attacked": "Know this: our blood runs hot with the fire of rebellion. Your aggression will only stoke the flames of our defiance!",
@@ -899,7 +899,7 @@
 		"leaderName": "Salvador Allende",
 		"startBias": ["Coast","Desert"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Christianity",
 
 		"declaringWar": "Chile will not stand idly by as it's sovereignty is threatened! We declare war upon your reign!",
 		"attacked": "Your cowardly assault is laughable! The world will bear witness to the consequences of your reckless aggression!",
@@ -925,7 +925,7 @@
 		"leaderName": "Fidel Castro",
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-		"favoredReligion": "Catholicism",
+		"favoredReligion": "Christianity",
 
 		"declaringWar": "Prepárate, for the roar of the Caribbean will shake your lands! Cuba stands for freedom, and we will not be shackled by your ambition!",
 		"attacked": "¡Malditos sean! Cuba is not a land to be trifled with!",
@@ -984,7 +984,7 @@
 		"leaderName": "Vladimir the Great",
 		"startBias": ["Avoid [Desert]", "River"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Eastern Orthodox",
+		"favoredReligion": "Eastern Orthodoxy",
 
 		"declaringWar": "By Perun's mighty hammer! I declare war between our lands! Let my fierce Druzhina and the clash of steel be my roar!",
 		"attacked": "This treachery shall not pass unanswered! Let my guard march forth, and my mighty siege engines roar, as we crush you like grapes beneath our iron boots!",
@@ -1067,7 +1067,7 @@
 	"leaderName": "Alexander Nevsky",
 	"startBias": ["River"],
 	"preferredVictoryType": "Diplomatic",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "Our unyielding strongholds will not falter to one as puny as you, and my cunning armies will unleash their fury upon you!",
 	"attacked": "I shall throw you into a pitfull of snakes!",
@@ -1184,7 +1184,7 @@
 	"leaderName": "Bohdan Khmelnytsky",
 	"startBias": ["Wheat"],
 	"preferredVictoryType": "Diplomatic",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "Hear me, ye foes, who seek to trample upon our fertile lands! We, the Cossacks, the true sons and daughters of Ukraine, shall not bow down before your false rule! We rise as one, our fierce warriors brandishing our sabres, our brave Zaporozhian Cossacks ready to charge! May our glorious Dnieper River drown your ambitions, as we defend our home, our people, our Ukraine!",
 	"attacked": "By the sacred blue and gold banner that waves above our heads, we shall not cower in fear! Our brave Cossacks will ride forth, their hearts ablaze, and our fearsome Ukrainian warriors will stand firm against this treacherous onslaught!",
@@ -1319,7 +1319,7 @@
 	"leaderName": "Igor Smirnov",
 	"startBias": ["Hill"],
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "Comrade, it appears we have reached an impasse, one that can only be resolved through force.",
 	"attacked": "The audacity! To think some upstart nation would dare attack our beloved Transnistria!",
@@ -1346,7 +1346,7 @@
 	"leaderName": "Vlad III",
 	"startBias": ["Mountain","Hill"],
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "Hark, thou shalt feel the wrath of my impaling stakes, for I, Vlad III, have declared war upon thee! My armies shall descend upon your lands like darkness upon the earth, leaving naught but terror in their wake!",
 	"attacked": "Foul invaders, you dare tread upon my sacred lands? My impaling stakes await you all, for I, Vlad III, shall not rest until every last one of you faces the terrors my forces shall unleash!",
@@ -1509,7 +1509,7 @@
 	"leaderName": "William Young",
 	"startBias": ["Coast", "Jungle", "Atoll"],
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "By the burning fires of the Boiling Lake and the fury of the raging Indian River, Dominica rises against you! Prepare your armies!",
 	"attacked": "You dare to disturb the tranquility of our Nature Isle? Your aggression shall be met with the ferocity of the Sisserou parrot's squall and the unyielding resilience of our volcanic earth!",
@@ -1644,7 +1644,7 @@
 	"leaderName": "John Curtin",
 	"startBias": ["Coast", "Plains"],
 	"preferredVictoryType": "Scientific",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "Listen here, cobber, we Aussies didn't start this dance, but by jingo, we'll finish it! Our boys are ready to stand for what's right and fair, so prepare to face the thunder from Down Under!",
 	"attacked": "Bloody hell! You've made a big blue, mate. Our boys don't take kindly to uninvited guests, and we'll show you what true Aussie grit is all about!",
@@ -1671,7 +1671,7 @@
 	"leaderName": "Ahmadou Ahidjo",
 	"startBias": ["River"],
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "Beware, for the Lion of Cameroon shall roar in fury! Your treachery shall be answered by the resolute will of every man, woman, and child who calls these verdant lands their home!",
 	"attacked": "We shall rise like the great Mount Cameroon, unyielding and untamed.",
@@ -1996,7 +1996,7 @@
 	"leaderName": "João III",
 	"startBias": ["Coast"],
 	"preferredVictoryType": "Diplomatic",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "Oh glorious one above, witness our might! To the usurpers of our rightful dominion, we declare war! Portugal shall not yield until our seas are free and our lands are secure from your encroachments. We have cut all tade to your foolish kingdom and you shall suffer from your choices!",
 	"attacked": "Portugal is not a land to be toyed with. Our armadas are armed and ready.",
@@ -2023,7 +2023,7 @@
 	"leaderName": "Umberto II",
 	"startBias": ["Coast"],
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "By the sacred blood of Garibaldi, we march towards the drums of destiny, and your pitiful nation shall be the canvas upon which we paint the resurgence of Rome's greatness!",
 	"attacked": "Audacia! You dare challenge the throne of the Two Sicilies?",
@@ -2172,7 +2172,7 @@
 	"leaderName": "Skanderbeg",
 	"startBias": ["Hill"],
 	"preferredVictoryType": "Domination",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "By the blood of our ancestors and the fire of our mountains, I, Skanderbeg, declare war upon your nation! Your people will soon learn the wrath of the Albanian eagle!",
 	"attacked": "The sons of Albania will descend upon your armies like a tempest, and your people will know the fury of the Balkan league!",
@@ -2202,7 +2202,7 @@
 	"leaderName": "Stefan Dusan",
 	"startBias": ["Hill"],
 	"preferredVictoryType": "Domination",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "By the sword of Saint Sava, I shall unleash the wrath of the Serbian people upon your lands! Prepare your armies, for the Emperor of the Serbs comes to expand his great empire!",
 	"attacked": "Summon your knights, your men-at-arms, and your archers, for we shall show you the true meaning of Serbian valor!",
@@ -2256,7 +2256,7 @@
 	"leaderName": "Nicholas I",
 	"startBias": ["Hill", "Mountain"],
 	"preferredVictoryType": "Diplomatic",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "As the eagles of Lovćen soar into the skies, so too shall our warriors descend upon your lands! You have disturbed the tranquility of our mountains, and now you shall face the thunder of our vengeance!",
 	"attacked": "You have set fire to the powder keg of the Balkans, and now you shall face the inferno of our wrath!",
@@ -2283,7 +2283,7 @@
 	"leaderName": "Ferdinand I",
 	"startBias": ["Hill"],
 	"preferredVictoryType": "Domination",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 
 	"declaringWar": "Your lands shall soon be painted with the vibrant colors of our illustrious flag, and your people shall tremble with envy at the splendor of our royal court. You may resist, but the tide of history favors the bold, and I am Bulgarian destiny!",
 	"attacked": "You dare to sully the honor of Bulgaria with your crude aggression? How... Amusing.",
@@ -2555,7 +2555,7 @@
 	"leaderName": "Çete Reisi",
 	"preferredVictoryType": "Cultural",
 	"startBias": ["Plains", "Desert"],
-	"favoredReligion": "Polytheism",
+	
 
 	"declaringWar": "Hearken, O foreign despot! The earth beneath Catalhoyuk trembles not with fear, but with the fury of a thousand warriors! Our spears shall drink deeply of your blood, and our stones shall crush your dreams of conquest! The Çete Reisi declares war upon you, and our wrath shall be your eternal doom!",
 	"attacked": "Infamy! The sacred walls of Catalhoyuk, bastion of our ancestors, are breached by your vile hand! But know this, invader: for every stone you topple, a hundred more shall rise in its place.",
@@ -2671,7 +2671,7 @@
 	"adjective": ["Polish"],
 	"leaderName": "Bolesław I",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Grassland"],
 
 	"declaringWar": "By the sword of Szczerbiec, I, Bolesław the Brave, declare that the eagle of Poland shall swoop down upon thy lands! Your transgressions have invoked the wrath of our mighty nation. Prepare for battle, for we shall not relent until justice is served!",
@@ -2698,7 +2698,7 @@
 	"adjective": ["Slovak"],
 	"leaderName": "Alexander Dubček",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Mountain"],
 
 	"declaringWar": "Our people will rise against your tyranny! I will no longer let you stomp over my people!",
@@ -2725,7 +2725,7 @@
 	"adjective": ["Czech"],
 	"leaderName": "Jan Žižka",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Grassland"],
 
 	"declaringWar": "Kings may be chosen by God, but they still make the mistakes of men. Your folly will be your downfall.",
@@ -2752,7 +2752,7 @@
 	"adjective": ["Yugoslavian"],
 	"leaderName": "Josip Broz Tito",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Grassland"],
 
 	"declaringWar": "The time for diplomacy has passed. Yugoslavia will not stand idly by while our sovereignty is threatened. Prepare for the might of the Socialist state!",
@@ -2779,7 +2779,7 @@
 	"adjective": ["Croat"],
 	"leaderName": "Tomislav I",
 	"preferredVictoryType": "Domination",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Coast", "Hill"],
 
 	"declaringWar": "Croatia's might shall be felt across your lands. You shall fall to me.",
@@ -2908,7 +2908,7 @@
 	"adjective": ["Latvian"],
 	"leaderName": "Karlis Ulmanis",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Tundra"],
 
 	"declaringWar": "Our brave farmers will trade their plows for swords, and we shall reap a harvest of victory on the battlefield!",
@@ -2939,7 +2939,7 @@
 	"adjective": ["Estonian"],
 	"leaderName": "Konstantin Päts",
 	"preferredVictoryType": "Scientific",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Tundra"],
 
 	"declaringWar": "Estonia's might shall crush you like a wave upon the shores of the Baltic.",
@@ -3020,7 +3020,7 @@
 	"adjective": ["Liechtensteiner"],
 	"leaderName": "Hans-Adam II",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Hill", "Avoid [Coast]"],
 
 	"declaringWar": "When the state fails, it is time for the people to act.",
@@ -3074,7 +3074,7 @@
 	"adjective": ["Danzigian"],
 	"leaderName": "Heinrich Sahm",
 	"preferredVictoryType": "Diplomatic",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Grassland", "Coast"],
 
 	"declaringWar": "The Free City will not be intimidated.",
@@ -3209,7 +3209,7 @@
 	"adjective": ["Vatican"],
 	"leaderName": "John Paul II",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Avoid [Coast]"],
 
 	"declaringWar": "It is my duty as Pope that I defend the house of god from those who seek to destroy!",
@@ -3236,7 +3236,7 @@
 	"adjective": ["Monacan"],
 	"leaderName": "Albert I",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Coast", "Hill"],
 
 	"declaringWar": "This war is not what I desired, but your aggression leaves me no choice. Let us see if your might can withstand the resolve of Monaco!",
@@ -3449,7 +3449,7 @@
 	"adjective": ["American"],
 	"leaderName": "Roosevelt",
 	"preferredVictoryType": "Domination",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "The United States hereby declares war. May God have mercy on your nation, for we shall not!",
 	"attacked": "Every inch of American soil will be defended with the full might of our great nation. Prepare for a war you cannot win!",
@@ -3488,7 +3488,7 @@
 	"adjective": ["German"],
 	"leaderName": "Walter Ulbricht",
 	"preferredVictoryType": "Scientific",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "The time has come to liberate your people from the chains of capitalism. The German Democratic Republic declares war!",
 	"attacked": "You dare assault the workers' state? The might of socialism will crush your aggression!",
@@ -3520,7 +3520,7 @@
 	"adjective": ["German"],
 	"leaderName": "Konrad Adenauer",
 	"preferredVictoryType": "Scientific",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "It seems you have left us no choice. If it is war you seek, then war you shall have. But know this—Germany will endure long after your ambitions crumble.",
 	"attacked": "You would strike at us? Do not mistake our desire for peace as weakness.",
@@ -3578,7 +3578,7 @@
 	"adjective": ["Czechoslovakian"],
 	"leaderName": "Tomáš Masaryk",
 	"preferredVictoryType": "Scientific",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 	"startBias": ["Hill", "Avoid [Coast]"],
 
 	"declaringWar": "It pains me to take this path, but you leave us no choice. Czechoslovakia will defend its right to exist, no matter the cost!",
@@ -3776,7 +3776,7 @@
 	"adjective": ["Hungarian"],
 	"leaderName": "István I",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Eastern Orthodox",
+	"favoredReligion": "Eastern Orthodoxy",
 	"startBias": ["River", "Hill"],
 
 	"declaringWar": "You leave me no choice but to take up arms. May God forgive me for the blood that must be spilled to protect our people.",
@@ -4327,7 +4327,7 @@
 	"adjective": ["Filipino"],
 	"leaderName": "Jose Rizal",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Coast", "Jungle"],
 
 	"declaringWar": " I must now defend my beloved Philippines. May our pens become mightier than your swords.",
@@ -4798,7 +4798,7 @@
 	"adjective": ["Romani"],
 	"leaderName": "Ian Hancock",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "Our people have endured persecution for centuries. Today, we stand united against your oppression. The Romani will no longer be silent in the face of injustice!",
 	"attacked": "You dare to threaten the Romani? We have survived countless attempts to erase us from history.",
@@ -4841,7 +4841,7 @@
 	"leaderName": "Princess Libushe",
 	"startBias": ["Hill"],
 	"preferredVictoryType": "Domination",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "The stars have shown me the path of conflict. I shall seek mercy no longer, for the might of Great Moravia shall sweep across your lands like the Vltava in spring flood.",
 	"attacked": "You dare to challenge the vision I have foreseen!?",
@@ -4870,7 +4870,7 @@
 	"startBias": ["Coast", "Atoll"],
 	"leaderName": "Tosiwo Nakayama",
 	"preferredVictoryType": "Cultural",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "The ocean has taught us patience, but it has also shown us how to weather storms.",
 	"attacked": "You have made a grave mistake.",
@@ -4932,7 +4932,7 @@
 	"startBias": ["Coast", "Forest"],
 	"leaderName": "Fletcher Christian",
 	"preferredVictoryType": "Domination",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "We've charted our course, and it leads to war... To arms, my crew!",
 	"attacked": "So, you've chosen to test the mettle of Norfolk's finest? Very well.",
@@ -5274,7 +5274,7 @@
 	"leaderName": "John Momis",
 	"preferredVictoryType": "Diplomatic",
 	"startBias": ["Coast", "Jungle"],
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "For too long, Bougainville has sought peace. But you leave us no choice. Our people, from the mountains to the coast, will defend what is rightfully ours.",
 	"attacked": "You attack Bougainville? Have you learned nothing from history?!",
@@ -5527,7 +5527,7 @@
 	"adjective": ["Sammarinese"],
 	"leaderName": "Saint Marinus",
 	"preferredVictoryType": "Diplomatic",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Hill", "Avoid [Coast]"],
 
 	"declaringWar": "Now, like a sculptor revealing the statue within the stone, we'll carve out our place in this world - even if it means going through you.",
@@ -5658,7 +5658,7 @@
 	"adjective": ["Noronhense"],
 	"leaderName": "José Truda Palazzo Jr",
 	"preferredVictoryType": "Scientific",
-	"favoredReligion": "Catholicism",
+	"favoredReligion": "Christianity",
 	"startBias": ["Coast", "Jungle"],
 
 	"declaringWar": "You've pushed us too far! The dolphins will leap and the frigatebirds will soar as we defend our marine sanctuary. Fernando de Noronha não vai cair!",
