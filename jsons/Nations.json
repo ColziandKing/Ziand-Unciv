@@ -2099,33 +2099,6 @@
 	"cities": ["Brussels", "Antwerp", "Ghent", "Bruges", "Leuven", "Charleroi", "Liege", "Kortrijk", "Hasselt", "Sint-Niklaas", "Genk", "Mechelen", "Aalst", "Mons", "Ostend", "Waregem", "Sint-Truiden", "Lokeren", "Roeselare", "Deinze", "Turnhout", "Binche", "Woluwe-Saint-Pierre", "Edegem", "Grimbergen", "Ottignies-Louvain-la-Neuve", "Chaussée-Notre-Dame-Louvignies", "Geel"],
 },
 {
-	"name": "Austria-Hungary",
-	"adjective": ["Austro-Hungarian"],
-	"leaderName": "Franz Joseph I",
-	"startBias": ["Hill"],
-	"preferredVictoryType": "Domination",
-	"favoredReligion": "Christianity",
-
-	"declaringWar": "By the crown and the honor of my forefathers, I shall not hesitate to unleash the imperial might of Austria and Hungary upon your insolent nation! Your defiance will be crushed!",
-	"attacked": "Foolishness! You dare to challenge our great empire?",
-	"defeated":"All is lost... The once-mighty empire, the legacy of my ancestors, lies in ruin.",
-	"introduction": "The Great King Kanishka salutes you. May your name become as renowned in these lands as mine.",
-
-	"neutralHello": "A courteous nod to you, leader of a distant land.",
-	"hateHello": "You are but a fleeting obstacle on the path of Austria-Hungary's destiny.",
-
-	"tradeRequest": "As a token of our imperial benevolence, we extend an offer of trade to your nation.",
-
-	"innerColor": [197, 216, 109],
-	"outerColor": [241, 15, 31],
-
-	"uniqueName": "Dual Crown Authority",
-	"uniques": ["Comment [Provides a [Palace] in your first [2] cities for free (Your second city also becomes a capital)]", "Provides a [Palace] in your first [2] cities for free <hidden from users>"],
-
-	"spyNames": ["Paul", "Anna", "Jakob", "Emilia", "Ludwig", "Georg", "Mihály", "Ferenc", "Leopold", "Therese"],
-	"cities": ["Vienna", "Budapest", "Ghent", "Bruges", "Leuven", "Charleroi", "Liege", "Kortrijk", "Hasselt", "Sint-Niklaas", "Genk", "Mechelen", "Aalst", "Mons", "Ostend", "Waregem", "Sint-Truiden", "Lokeren", "Roeselare", "Deinze", "Turnhout", "Binche", "Woluwe-Saint-Pierre", "Edegem", "Grimbergen", "Ottignies-Louvain-la-Neuve", "Chaussée-Notre-Dame-Louvignies", "Geel"],
-},
-{
 	"name": "The United Kingdom",
 	"adjective": ["English"],
 	"leaderName": "Winston Churchill",
